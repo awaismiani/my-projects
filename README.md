@@ -1,4 +1,4 @@
-# my-projects
-this is my public repository <br>
-author awais minai
+# My Projects
+This repository is for practicing my class projects. <br>
+Author: Awais Minai
 
